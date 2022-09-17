@@ -1,0 +1,1 @@
+print('dies from cringe')
