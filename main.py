@@ -1,1 +1,0 @@
-print('dies from cringe')
